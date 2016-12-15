@@ -1,0 +1,131 @@
+Acari:Carnaúba dos dantas:25
+Acari:Cruzeta:18
+Acari:Currais Novos:30
+Acari:Jardim do Seridó:32
+Acari:Parelhas:30
+Acari:Santana do Seridó:29
+
+Bodó:Cerro Corá:23
+Bodó:Santana dos Matos:27
+
+Caicó:Cruzeta:40
+Caicó:Jardim de Piranhas:31
+Caicó:Jardim do Seridó:39
+Caicó:Jucurutu:53
+Caicó:Ouro Branco:47
+Caicó:São Fernando:19
+Caicó:São João do Sabugi:39
+Caicó:São José do Seridó:33
+Caicó:Serra Negra do Norte:48
+Caicó:Timbaúba dos Batistas:18
+
+Cerro Corá:Bodó:23
+Cerro Corá:Currais Novos:40
+Cerro Corá:Lagoa Nova:18
+Cerro Corá:Santana dos Matos:44
+
+Carnaúba dos Dantas:Acari:25
+Carnaúba dos Dantas:Jardim do Seridó:29
+Carnaúba dos Dantas:Parelhas:29
+
+Cruzeta:Acari:18
+Cruzeta:Caicó:40
+Cruzeta:Florânia:42
+Cruzeta:Jardim do Seridó:23
+Cruzeta:São José do Seridó:18
+Cruzeta:São Vicente:50
+
+Currais Novos:Acari:30
+Currais Novos:Cerro Corá:40
+Currais Novos:Lagoa Nova:27
+Currais Novos:São Vicente:24
+Currais Novos:Tenente Laurentino Cruz:44
+
+Equador:Parelhas:37
+Equador:Santana do Seridó:26
+
+Florânia:Cruzeta:42
+Florânia:Jucurutu:27
+Florânia:São José do Seridó:45
+Florânia:São Vicente:21
+Florânia:Santana dos Matos:64
+Florânia:Tenente Laurentino Cruz:17
+
+Ipueira:São João do Sabugi:15
+
+Jardim de Piranhas:Caicó:31
+Jardim de Piranhas:São Fernando:26
+Jardim de Piranhas:Serra Negra do Norte:56
+Jardim de Piranhas:Timbaúba dos Batistas:27
+
+Jardim do Seridó:Acari:32
+Jardim do Seridó:Caicó:49
+Jardim do Seridó:Carnaúba dos Dantas:29
+Jardim do Seridó:Cruzeta:23
+Jardim do Seridó:Ouro Branco:25
+Jardim do Seridó:Parelhas:22
+Jardim do Seridó:São José do Seridó:18
+
+Jucurutu:Caicó:53
+Jucurutu:Florânia:27
+Jucurutu:Santana dos Matos:51
+
+Lagoa Nova:Cerro Corá:18
+Lagoa Nova:Currais Novos:27
+
+Ouro Branco:Caicó:47
+Ouro Branco:Jardim do Seridó:25
+Ouro Branco:São João do Sabugi:41
+
+Parelhas:Acari:30
+Parelhas:Carnaúba dos Dantas:29
+Parelhas:Equador:37
+Parelhas:Jardim do Seridó:22
+Parelhas:Santana do Seridó:15
+
+São Fernando:Caicó:19
+São Fernando:Jardim de Piranhas:26
+São Fernando:Serra Negra do Norte:43
+São Fernando:Timbaúba dos Batistas:14
+
+São João do Sabugi:Caicó:39
+São João do Sabugi:Ipueira:15
+São João do Sabugi:Ouro Branco:41
+São João do Sabugi:Serra Negra do Norte:28
+São João do Sabugi:Timbaúba dos Batistas:60
+
+São José do Seridó:Caicó:33
+São José do Seridó:Cruzeta:18
+São José do Seridó:Florânia:45
+São José do Seridó:Jardim do Seridó:18
+São José do Seridó:São Vicente:54
+
+São Vicente:Cruzeta:50
+São Vicente:São José do Seridó: 54
+São Vicente:Currais Novos:44
+São Vicente:Florânia:21
+São Vicente:Tenente Laurentino Cruz:54
+
+Santana do Seridó:Acari:29
+Santana do Seridó:Equador:26
+Santana do Seridó:Parelhas:15
+
+Santana dos Matos:Bodó:27
+Santana dos Matos:Cerro Corá:44
+Santana dos Matos:Florânia:64
+Santana dos Matos:Jucurutu:51
+Santana dos Matos:Tenente Laurentino Cruz:49
+
+Serra Negra do Norte:Caicó:48
+Serra Negra do Norte:Jardim de Piranhas:56
+Serra Negra do Norte:São Fernando:43
+Serra Negra do Norte:São João do Sabugi:28
+
+Tenente Laurentino Cruz:Currais Novos:44
+Tenente Laurentino Cruz:Florânia:17
+Tenente Laurentino Cruz:Santana dos Matos:49
+
+Timbaúba dos Batistas:Caicó:18
+Timbaúba dos Batistas:Jardim de Piranhas:27
+Timbaúba dos Batistas:São Fernando:14
+Timbaúba dos Batistas:São João do Sabugi:60
